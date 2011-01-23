@@ -4,7 +4,7 @@ Version:	0.1
 Release:	1
 License:	GPL v2
 Source0:	http://repo.or.cz/w/cvsclone.git/snapshot/558950ab442bc0551c8c16f8d3d6bc972818a81d.tar.gz#/%{name}.tgz
-# Source0-md5:	73098d53f36786f7494e6f7845cab7f2
+# Source0-md5:	f678e9cd37f4d2f85466a4e817a108c2
 Group:		Development/Languages
 URL:		https://samba.org/ftp/tridge/rtc/cvsclone.l
 BuildRequires:	sed >= 4.0
